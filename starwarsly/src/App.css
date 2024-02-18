@@ -1,0 +1,13 @@
+/* Stylsheet for the App component */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+#root {
+    text-align: justify;
+    padding: 14px;
+}

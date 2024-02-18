@@ -1,0 +1,14 @@
+/* Stylsheet for nav bar component */
+.NavBar {
+  background-color: tomato;
+}
+
+.NavBar a {
+  display: inline-block;
+  width: 20%;
+}
+
+.NavBar a.active {
+  font-weight: bold;
+  background-color: yellow;
+}
